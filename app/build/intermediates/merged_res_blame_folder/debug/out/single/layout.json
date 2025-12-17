@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.bloomify.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "com.bloomify.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.bloomify.app-mergeDebugResources-43:/layout/item_mood_selector.xml",
+        "source": "com.bloomify.app-main-46:/layout/item_mood_selector.xml"
+    },
+    {
+        "merged": "com.bloomify.app-mergeDebugResources-43:/layout/widget_habit.xml",
+        "source": "com.bloomify.app-main-46:/layout/widget_habit.xml"
+    },
+    {
+        "merged": "com.bloomify.app-mergeDebugResources-43:/layout/fragment_profile.xml",
+        "source": "com.bloomify.app-main-46:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.bloomify.app-mergeDebugResources-43:/layout/dialog_add_mood.xml",
+        "source": "com.bloomify.app-main-46:/layout/dialog_add_mood.xml"
+    },
+    {
+        "merged": "com.bloomify.app-mergeDebugResources-43:/layout/fragment_habits.xml",
+        "source": "com.bloomify.app-main-46:/layout/fragment_habits.xml"
+    },
+    {
+        "merged": "com.bloomify.app-mergeDebugResources-43:/layout/activity_splash.xml",
+        "source": "com.bloomify.app-main-46:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.bloomify.app-mergeDebugResources-43:/layout/dialog_add_habit.xml",
+        "source": "com.bloomify.app-main-46:/layout/dialog_add_habit.xml"
+    },
+    {
+        "merged": "com.bloomify.app-mergeDebugResources-43:/layout/fragment_onboarding_page.xml",
+        "source": "com.bloomify.app-main-46:/layout/fragment_onboarding_page.xml"
+    },
+    {
+        "merged": "com.bloomify.app-mergeDebugResources-43:/layout/fragment_settings.xml",
+        "source": "com.bloomify.app-main-46:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.bloomify.app-mergeDebugResources-43:/layout/activity_onboarding.xml",
+        "source": "com.bloomify.app-main-46:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "com.bloomify.app-mergeDebugResources-43:/layout/item_habit.xml",
+        "source": "com.bloomify.app-main-46:/layout/item_habit.xml"
+    },
+    {
+        "merged": "com.bloomify.app-mergeDebugResources-43:/layout/activity_login.xml",
+        "source": "com.bloomify.app-main-46:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.bloomify.app-mergeDebugResources-43:/layout/item_mood.xml",
+        "source": "com.bloomify.app-main-46:/layout/item_mood.xml"
+    },
+    {
+        "merged": "com.bloomify.app-mergeDebugResources-43:/layout/activity_signup.xml",
+        "source": "com.bloomify.app-main-46:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.bloomify.app-mergeDebugResources-43:/layout/fragment_mood_journal.xml",
+        "source": "com.bloomify.app-main-46:/layout/fragment_mood_journal.xml"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "com.bloomify.app-merged_res-44:/layout_item_mood_selector.xml.flat",
+        "source": "com.bloomify.app-main-46:/layout/item_mood_selector.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/drawable_ic_onboarding_1.xml.flat",
+        "source": "com.bloomify.app-main-46:/drawable/ic_onboarding_1.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/drawable_circle_background.xml.flat",
+        "source": "com.bloomify.app-main-46:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/drawable_ic_profile.xml.flat",
+        "source": "com.bloomify.app-main-46:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/xml_backup_rules.xml.flat",
+        "source": "com.bloomify.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/layout_dialog_add_mood.xml.flat",
+        "source": "com.bloomify.app-main-46:/layout/dialog_add_mood.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/layout_activity_splash.xml.flat",
+        "source": "com.bloomify.app-main-46:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/drawable_ic_settings.xml.flat",
+        "source": "com.bloomify.app-main-46:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/drawable_stat_background.xml.flat",
+        "source": "com.bloomify.app-main-46:/drawable/stat_background.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.bloomify.app-main-46:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/drawable_ic_add.xml.flat",
+        "source": "com.bloomify.app-main-46:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/layout_activity_main.xml.flat",
+        "source": "com.bloomify.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/layout_activity_signup.xml.flat",
+        "source": "com.bloomify.app-main-46:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/layout_fragment_habits.xml.flat",
+        "source": "com.bloomify.app-main-46:/layout/fragment_habits.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/drawable_ic_share.xml.flat",
+        "source": "com.bloomify.app-main-46:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/layout_fragment_mood_journal.xml.flat",
+        "source": "com.bloomify.app-main-46:/layout/fragment_mood_journal.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/drawable_gradient_background.xml.flat",
+        "source": "com.bloomify.app-main-46:/drawable/gradient_background.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/drawable_tab_selector.xml.flat",
+        "source": "com.bloomify.app-main-46:/drawable/tab_selector.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/xml_habit_widget_info.xml.flat",
+        "source": "com.bloomify.app-main-46:/xml/habit_widget_info.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/drawable_ic_habits.xml.flat",
+        "source": "com.bloomify.app-main-46:/drawable/ic_habits.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/layout_fragment_settings.xml.flat",
+        "source": "com.bloomify.app-main-46:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/layout_item_mood.xml.flat",
+        "source": "com.bloomify.app-main-46:/layout/item_mood.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/layout_fragment_profile.xml.flat",
+        "source": "com.bloomify.app-main-46:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/layout_widget_habit.xml.flat",
+        "source": "com.bloomify.app-main-46:/layout/widget_habit.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/drawable_ic_logo.jpeg.flat",
+        "source": "com.bloomify.app-main-46:/drawable/ic_logo.jpeg"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/drawable_ic_mood.xml.flat",
+        "source": "com.bloomify.app-main-46:/drawable/ic_mood.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/drawable_ic_water.xml.flat",
+        "source": "com.bloomify.app-main-46:/drawable/ic_water.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/layout_fragment_onboarding_page.xml.flat",
+        "source": "com.bloomify.app-main-46:/layout/fragment_onboarding_page.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/layout_dialog_add_habit.xml.flat",
+        "source": "com.bloomify.app-main-46:/layout/dialog_add_habit.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/drawable_ic_onboarding_2.xml.flat",
+        "source": "com.bloomify.app-main-46:/drawable/ic_onboarding_2.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/layout_item_habit.xml.flat",
+        "source": "com.bloomify.app-main-46:/layout/item_habit.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/drawable_ic_logout.xml.flat",
+        "source": "com.bloomify.app-main-46:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/color_bottom_nav_color.xml.flat",
+        "source": "com.bloomify.app-main-46:/color/bottom_nav_color.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/layout_activity_onboarding.xml.flat",
+        "source": "com.bloomify.app-main-46:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/layout_activity_login.xml.flat",
+        "source": "com.bloomify.app-main-46:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/drawable_ic_onboarding_3.xml.flat",
+        "source": "com.bloomify.app-main-46:/drawable/ic_onboarding_3.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/drawable_widget_background.xml.flat",
+        "source": "com.bloomify.app-main-46:/drawable/widget_background.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/drawable_icon_background.xml.flat",
+        "source": "com.bloomify.app-main-46:/drawable/icon_background.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/drawable_mood_selector_background.xml.flat",
+        "source": "com.bloomify.app-main-46:/drawable/mood_selector_background.xml"
+    },
+    {
+        "merged": "com.bloomify.app-merged_res-44:/xml_data_extraction_rules.xml.flat",
+        "source": "com.bloomify.app-main-46:/xml/data_extraction_rules.xml"
+    }
+]
